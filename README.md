@@ -11,9 +11,9 @@ The steps used on Notebook:<br>
 * Prediction<br>
   * Predict total sales for next week<br>
   * Predict food weight consumption for next week<br>
-* Other points analized<br>
-  * Boxplot analisys<br>
-  * Correlation analisys<br>
-  * Time series analisys<br>
+* Other points analyzed<br>
+  * Boxplot analysis<br>
+  * Correlation analysis<br>
+  * Time series analysis<br>
   * Time series prediction<br>
-  * Autocorrelation analisys<br>
+  * Autocorrelation analysis<br>
